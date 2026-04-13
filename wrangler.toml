@@ -14,10 +14,10 @@ database_name = "blog-1"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "fba6e3c329ff4f1b9f32c868e06e0cce"
 preview_id = ""
 
 [[r2_buckets]]
 binding = "NOTES_R2_BUCKET"
-bucket_name = "YOUR_R2_BUCKET_NAME"
+bucket_name = "memos-media"
 preview_bucket_name = "notes-files-preview"
